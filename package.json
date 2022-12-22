@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
-    "next": "^9.2.2",
+    "next": "^9.5.5",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "sw-precache-webpack-plugin": "^1.0.0"
